@@ -10,4 +10,3 @@
 1. Claude Code
 2. Other AI tools
 3. Canva
-<Languages, frameworks, or tools you actually use>

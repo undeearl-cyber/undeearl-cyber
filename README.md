@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm <undeear></h1>
+<h1 align="center">👋Hi, I'm <Jun Hao></h1>
 <p align="center">A passionate young student that is keen to explore new things and create innovative solutions. Recently exploring AI and AI Agents with Python.</p>
 
 ## 🏗️ What I'm Building

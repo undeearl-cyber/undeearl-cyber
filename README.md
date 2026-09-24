@@ -1,5 +1,5 @@
-<h1 align="center">👋Hi, I'm undeear
-<p align="center">A passionate young student that is keen to explore new things and create innovative solutions. Recently exploring AI and AI Agents with Python.</p>
+<h1 align="center">👋Hi, I'm undeear <h1>
+<p align="center">a normal student interested in innovation and using AI tools.</p>
 
 ## 🏗️ What I'm Building
 1. Establishing solutions to solve real-world problems.
